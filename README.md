@@ -12,6 +12,7 @@ which is visualized using the StateViewer.
 The StateViewer consists of two parts:
 
 1) d3dretrace/glretrace - State tracing, now part of apitrace. (https://github.com/apitrace/apitrace)
+
 2) StateViewer - This visualizer for viewing state trace data.
 
 OVERVIEW
