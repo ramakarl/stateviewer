@@ -1,4 +1,3 @@
-
 NVIDIA STATEVIEWER 
 ===================
 NVIDIA (c) 2013
@@ -10,6 +9,18 @@ using apitrace to initially capture and record traces to a .trace file.
 During retrace the state bins are tracked, and output to a .raw file 
 which is visualized using the StateViewer.
 
+The StateViewer consists of two parts:
+
+1) d3dretrace/glretrace - State tracing, now part of apitrace. (https://github.com/apitrace/apitrace)
+2) StateViewer - This visualizer for viewing state trace data.
+
+OVERVIEW
+====================
+- Install apitrace
+- Run apitrace to produce .trace file
+- Run the d3dretrace or glretrace with new -r and -o options (by Nvidia) to replay the trace 
+  with state tracking enabled for output to a .raw file
+- Run this StateViewer to visualize the state trace data from .raw files
 
 TRACING
 ====================
