@@ -1,0 +1,47 @@
+
+STATEVIEWER
+NVIDIA Corporation (c) 2013
+===========================
+
+Contact: Rama Hoetzlein, rhoetzlein@nvidia.com
+
+The StateViewer consists of two parts.
+
+The retracer for generating state tracking data is built into the apitrace tool and licensed under the apitrace license. Components of the stateviewer found in apitrace adopt that license:
+   See https://github.com/apitrace/apitrace
+
+The StateViewer, a graphical interface used to visualize state trace data (.raw files), is licensed as follows:
+
+LICENSE
+
+1. USAGE
+
+You are free to download, copy, compile, study, and refer to the source code for any personal or commercial use. Usage by you or your organization of any work covered by this license should not, directly or indirectly, enable its usage by other individuals or organisations outside your own.
+
+2. MODIFICATION
+
+You are free to make any modifications to the source covered by this license. You are also free to compile the source after modifying it and use the compiled product obtained thereafter in compliance with this license.
+
+3. REDISTRIBUTION
+
+You may NOT copy, redistribute and/or republish the source or a work based on it. Interested parties are invited to contribute their own modifications to the original github repository for the StateViewer, but are not required to submit modifications unless the intent is to redistribute.
+
+4. NON-COMPLIANCE
+  
+You may not copy, modify, sublicense, or distribute the program except as expressly provided under this license. Any attempt otherwise to copy, modify, sublicense or distribute the program is void, and will automatically terminate your rights under this license, including the rights to usage of the software.
+
+5. DERIVATIVE WORKS
+
+NVIDIA retains the sole right to ammend, copy, modify, or reincorporate this work into future products, or to modify this work as the copyright holder.
+
+6. DISCLAIMER
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS" AND NVIDIA AND ITS SUPPLIERS DISCLAIM ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. 
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL EITHER PARTY OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE FEEDBACK, EVEN IF THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7. SUPPORT 
+
+NVIDIA has no obligation to support or to provide any updates to this software. 
+
+
