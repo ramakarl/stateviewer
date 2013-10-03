@@ -1,8 +1,9 @@
 
-NVIDIA STATEVIEWER
-(c) 2013
-Rama Hoetzlein
+NVIDIA STATEVIEWER 
 ===================
+NVIDIA (c) 2013
+
+Contact: Rama Hoetzlein, rhoetzlein@nvidia.com
 
 The StateViewer tracks state changes in DX11 and OpenGL graphics apps, 
 using apitrace to initially capture and record traces to a .trace file.
